@@ -1,5 +1,4 @@
-├── .github/workflows/continuous-windows.yml
-├── scripts/
+
 │ ├── backup-state.ps1
 │ ├── restore-state.ps1
 │ └── setup-runner.ps1
